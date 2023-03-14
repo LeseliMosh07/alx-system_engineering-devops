@@ -1,0 +1,2 @@
+#!/bin/bash
+less root@a7923896c049/etc/passwd

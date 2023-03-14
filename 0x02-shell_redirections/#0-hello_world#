@@ -1,5 +1,0 @@
-#!/bin/bash
-cat -e Hello, World\n
-
-
-
